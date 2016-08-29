@@ -41,3 +41,9 @@ Solution code from the Content-Providers lab has been given to you. You are welc
 An app that meets the above requirements.
 
 <img src="./screenshots/screen1.png" width="400"/>
+
+---
+
+## Licensing
+1. All content is licensed under a CC-BY-NC-SA 4.0 license. 
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
